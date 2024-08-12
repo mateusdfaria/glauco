@@ -1,0 +1,10 @@
+2024-08-12T23:25:07.379Z - DEBUG - Este é um log de DEBUG
+2024-08-12T23:25:07.380Z - INFO - Este é um log de INFO
+2024-08-12T23:25:07.380Z - WARN - Este é um log de WARNING
+2024-08-12T23:25:07.380Z - ERROR - Este é um log de ERROR
+2024-08-12T23:25:27.056Z - DEBUG - Este é um log de DEBUG
+2024-08-12T23:25:27.057Z - INFO - Este é um log de INFO
+2024-08-12T23:25:27.058Z - WARN - Este é um log de WARNING
+2024-08-12T23:25:27.058Z - ERROR - Este é um log de ERROR
+2024-08-12T23:28:51.614Z - INFO - Novo usuário cadastrado com sucesso: mateusfarias2308@gmail.com
+2024-08-12T23:29:07.013Z - INFO - Usuário logado com sucesso: mateusfarias2308@gmail.com
