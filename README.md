@@ -1,3 +1,3 @@
 # Trabalho Glauco
 
-Nome: Mateus de Faria e Leonardo Rocha.
+Nome: Mateus de Faria, Leonardo Rocha e Mateus Mautone.
